@@ -1,0 +1,10 @@
+D:\AI_Project\Image Puzzle\puzzle\bin\Release\puzzle.exe.config
+D:\AI_Project\Image Puzzle\puzzle\bin\Release\puzzle.exe
+D:\AI_Project\Image Puzzle\puzzle\bin\Release\puzzle.pdb
+D:\AI_Project\Image Puzzle\puzzle\obj\x86\Release\puzzle.csproj.AssemblyReference.cache
+D:\AI_Project\Image Puzzle\puzzle\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\AI_Project\Image Puzzle\puzzle\obj\x86\Release\puzzle.csproj.GenerateResource.cache
+D:\AI_Project\Image Puzzle\puzzle\obj\x86\Release\puzzle.csproj.CoreCompileInputs.cache
+D:\AI_Project\Image Puzzle\puzzle\obj\x86\Release\puzzle.exe
+D:\AI_Project\Image Puzzle\puzzle\obj\x86\Release\puzzle.pdb
+D:\AI_Project\Image Puzzle\puzzle\obj\x86\Release\WindowsFormsApplication1.Form1.resources
